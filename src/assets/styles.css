@@ -28,7 +28,7 @@ header .container {
   justify-content: space-between;
 }
 .home-link img {
-  width: 100px;
+  width: 150px;
   height: auto;
 }
 
@@ -165,7 +165,7 @@ blockquote {
   background-color: #f8f8f8;
 }
 .gitter-invite img {
-  width: 40px;
+  width: 150px;
   display: inline-block;
   margin: 0 10px;
 }
