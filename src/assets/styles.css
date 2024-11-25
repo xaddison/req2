@@ -20,7 +20,7 @@ h1, h2, h3 {
   }
 }
 header {
-  background: #64f;
+  background: #ea5b05;
   padding: 20px 0;
 }
 header .container {
@@ -28,7 +28,7 @@ header .container {
   justify-content: space-between;
 }
 .home-link img {
-  width: 60px;
+  width: 100px;
   height: auto;
 }
 
