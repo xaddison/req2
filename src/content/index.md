@@ -3,7 +3,7 @@ layout: simple.njk
 bodyClass: home
 seo:
   title: ReqDirect
-  description: Cut your time to hire
+  description: Cut your time to hire - Go Direct!
   socialImage: /assets/images/logo.png
   canonicalOverwrite: ""
 ---
