@@ -5,7 +5,7 @@ bodyClass: "blog"
 seo:
   title: My Blog
   description: "My blog posts"
-  socialImage: "/assets/images/metalsmith-starter-social.png"
+  socialImage: "/assets/images/logo.png"
   canonicalOverwrite: ""
 ---
 

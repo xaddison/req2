@@ -1,12 +1,12 @@
 {
   "menu": [
     {
-      "label": "Go Home",
+      "label": "Home",
       "url": "/",
       "bodyClass": "home"
     },
     {
-      "label": "Other Page",
+      "label": "Seekers",
       "url": "/other-page",
       "bodyClass": "otherPage"
     },

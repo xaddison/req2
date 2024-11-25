@@ -5,7 +5,7 @@ bodyClass: "other-page"
 seo:
   title: Metalsmith Netlify CMS Starter
   description: Metalsmith starter with Netlify CMS integration
-  socialImage: /assets/images/metalsmith-starter-social.png
+  socialImage: /assets/images/logo.png
   canonicalOverwrite: ""
 ---
 # Just another page
