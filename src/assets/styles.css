@@ -48,6 +48,7 @@ header .container {
 }
 .main-menu a:hover {
   text-decoration: underline;
+  color: #E95B0E
 }
 /* active nav links */
 .home .home,
