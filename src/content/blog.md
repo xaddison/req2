@@ -10,9 +10,9 @@ seo:
 ---
 
 <div class="blog-author">
-  <h2>ReqDirect</h2>
+  <h2>ReqRobot</h2>
   <div>
-    <img src="/assets/images/logo.png" alt="ReqDirect Logo" />
-    <p>A placeholder a simple site template is intended to help you getting started with building a static site out he reacted...</p>
+    <img src="/assets/images/reqrobot.jpg" alt="ReqDirect Robot" />
+    <p>Meet ReqRobot, bringing ease in processing for job seekers, agencies and direct employers alike, add ReqRobot our AI enabled matching now makes ReqDirect both Easy and Direct! </p>
   </div>
 </div>
